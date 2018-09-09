@@ -1,10 +1,7 @@
 # Web Visualization Dashboard (Latitude-WeatherPy)
-## Data Visualization: https://syu2017.github.io/Latitude--Web-Visualization-Dashboard--HTML-Bootstrap/
+
 
 #  Latitude - Latitude Analysis Dashboard 
-
-
-![picture](web.png)
 
 1. The website must consist of 7 pages total, including:
 
